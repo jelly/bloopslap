@@ -1,0 +1,12 @@
+[app]
+name = "Bloop Slap"
+menu = "Apps"
+
+[entry]
+class = "App"
+
+[metadata]
+author = "jelly"
+license = "MIT"
+url = "https://github.com/jelly"
+
